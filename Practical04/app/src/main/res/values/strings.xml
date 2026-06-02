@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical04</string>
+
+    <string-array name="list_name">
+        <item>List Item 1</item>
+        <item>List Item 2</item>
+        <item>List Item 3</item>
+        <item>List Item 4</item>
+    </string-array>
+</resources>
